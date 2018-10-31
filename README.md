@@ -1,1 +1,19 @@
 # TUGASJAVA3
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/ArrayListDouble.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/ArrayListFloat.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/ArrayListInteger.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/ArrayListObject.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/ArrayListString.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/MainQueueDouble.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/MainQueueString.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/MainStackString.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/QueueDouble.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/QueueString.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/README.md
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/StackString.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/mainQueueFloat.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/mainStackDouble.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/mainStackFloat.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/queueFloat.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/stackDouble.java
+https://github.com/gazalisalman/TUGASJAVA3/blob/master/stackFloat.java
